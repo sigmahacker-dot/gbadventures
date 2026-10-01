@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://gbadventure.vip/sitemap.xml

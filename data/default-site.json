@@ -1,0 +1,951 @@
+{
+  "settings": {
+    "brand": "GB Adventure",
+    "tagline": "Your Journey. Our Responsibility.",
+    "domain": "https://gbadventure.vip/",
+    "email": "rawiedites@gmail.com",
+    "phone": "+92 355 5101279",
+    "whatsapp": "https://wa.me/923555101279",
+    "address": "Gilgit-Baltistan, Pakistan",
+    "logo": "assets/gb-adventure-logo.svg",
+    "favicon": "assets/gb-adventure-logo.svg",
+    "heroBadge": "Pakistan Travel Agency · Gilgit-Baltistan Specialists",
+    "heroTitle": "Explore the North. Travel with Confidence.",
+    "heroText": "Curated tours across Skardu, Hunza, Deosai, Astore, Khaplu, Shigar, Naltar and beyond — planned with local knowledge and a genuine love for the mountains.",
+    "heroButton": "Explore Packages",
+    "heroButton2": "Book Your Trip",
+    "aboutTitle": "Your gateway to unforgettable journeys in Northern Pakistan",
+    "aboutText": "GB Adventure is a travel agency focused on immersive, reliable journeys across Gilgit-Baltistan and northern Pakistan. From private family trips to adventure groups, we help you plan routes, stays, transport and experiences without the stress.",
+    "aboutImage": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=1200&q=85",
+    "aboutImage2": "https://images.unsplash.com/photo-1517825738774-7de9363ef735?auto=format&fit=crop&w=1000&q=85",
+    "footerText": "Professional travel planning for the mountains of Gilgit-Baltistan and northern Pakistan.",
+    "copyright": "GB Adventure",
+    "seoTitle": "GB Adventure | Pakistan Travel Agency & Gilgit-Baltistan Tour Packages",
+    "seoDescription": "GB Adventure is a Pakistan travel agency offering curated Gilgit-Baltistan tour packages for Hunza, Skardu, Deosai, Astore, Khaplu, Shigar, Naltar and northern Pakistan.",
+    "seoKeywords": "Pakistan travel agency, Gilgit Baltistan tour packages, Hunza tour packages, Skardu tour packages, Deosai tour, Astore tour, Khaplu tour, Shigar Valley tour, Naltar Valley tour, northern Pakistan tours, Pakistan adventure tours, family tours Pakistan"
+  },
+  "socials": [
+    {
+      "name": "Facebook",
+      "icon": "fab fa-facebook-f",
+      "url": "https://www.facebook.com/share/1AVegF4JPn/"
+    },
+    {
+      "name": "Instagram",
+      "icon": "fab fa-instagram",
+      "url": "https://www.instagram.com/travel_with_rawi/"
+    },
+    {
+      "name": "TikTok",
+      "icon": "fab fa-tiktok",
+      "url": "https://www.tiktok.com/@yawarrawi"
+    },
+    {
+      "name": "WhatsApp",
+      "icon": "fab fa-whatsapp",
+      "url": "https://wa.me/923555101279"
+    }
+  ],
+  "heroSlides": [
+    {
+      "image": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=2200&q=90",
+      "eyebrow": "Explore Gilgit-Baltistan",
+      "title": "Mountains that stay with you.",
+      "text": "Journey through high valleys, alpine lakes, historic forts and unforgettable mountain roads.",
+      "button": "View Packages",
+      "localFallback": "img/carousel-1.jpg"
+    },
+    {
+      "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=2200&q=90",
+      "eyebrow": "Skardu · Hunza · Deosai",
+      "title": "Travel deeper into the north.",
+      "text": "Flexible itineraries, 4x4 safaris, and luxury resort stays for families, couples and groups.",
+      "button": "Plan My Trip",
+      "localFallback": "img/carousel-2.jpg"
+    },
+    {
+      "image": "https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?auto=format&fit=crop&w=2200&q=90",
+      "eyebrow": "4x4 Mountain Safaris & Expeditions",
+      "title": "Experience the ultimate mountain adventure.",
+      "text": "Rugged Land Cruisers, expert local mountain drivers, and bespoke northern itineraries.",
+      "button": "Explore Fleet & Tours",
+      "localFallback": "img/country-1.jpg"
+    }
+  ],
+  "stats": [
+    {
+      "number": "13+",
+      "label": "Curated Packages"
+    },
+    {
+      "number": "9+",
+      "label": "Core Destinations"
+    },
+    {
+      "number": "24/7",
+      "label": "Trip Support"
+    },
+    {
+      "number": "100%",
+      "label": "Local Focus"
+    }
+  ],
+  "packages": [
+    {
+      "id": "p1",
+      "name": "Arangkail Kashmir",
+      "category": "Cultural",
+      "solo": "Rs. 19,000",
+      "couple": "Rs. 45,000",
+      "duration": "3 Days",
+      "location": "Neelum Valley",
+      "image": "https://images.unsplash.com/photo-1500534623283-312aade485b7?auto=format&fit=crop&w=1200&q=85",
+      "highlights": [
+        "Ratti Gali Lake",
+        "Arang Kel Village",
+        "Neelum River"
+      ],
+      "overview": "A scenic northern escape combining alpine landscapes, village culture and the famous Arang Kel experience.",
+      "itinerary": [
+        "Day 1 — Departure and Neelum Valley",
+        "Day 2 — Arang Kel and valley exploration",
+        "Day 3 — Return journey"
+      ],
+      "included": [
+        "Transport",
+        "Tour coordination",
+        "Basic accommodation",
+        "Trip assistance"
+      ],
+      "excluded": [
+        "Personal expenses",
+        "Meals unless agreed",
+        "Entry tickets not listed"
+      ],
+      "activities": [
+        "Sightseeing",
+        "Hiking",
+        "Photography"
+      ],
+      "localFallback": "img/country-1.jpg"
+    },
+    {
+      "id": "p2",
+      "name": "Swat Kalam",
+      "category": "Adventure",
+      "solo": "Rs. 19,000",
+      "couple": "Rs. 45,000",
+      "duration": "3 Days",
+      "location": "Swat",
+      "image": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=1200&q=85",
+      "highlights": [
+        "Malam Jabba",
+        "Bahrain Bazaar",
+        "Ushu Forest"
+      ],
+      "overview": "A compact mountain adventure through Swat with forests, riverside stops and highland scenery.",
+      "itinerary": [
+        "Day 1 — Swat arrival and sightseeing",
+        "Day 2 — Kalam, Bahrain and Ushu",
+        "Day 3 — Return journey"
+      ],
+      "included": [
+        "Transport",
+        "Tour coordination",
+        "Accommodation",
+        "Trip assistance"
+      ],
+      "excluded": [
+        "Personal expenses",
+        "Meals unless agreed"
+      ],
+      "activities": [
+        "Adventure",
+        "Forest walks",
+        "Photography"
+      ],
+      "localFallback": "img/country-2.jpg"
+    },
+    {
+      "id": "p3",
+      "name": "Naran Shogran",
+      "category": "Adventure",
+      "solo": "Rs. 19,000",
+      "couple": "Rs. 45,000",
+      "duration": "3 Days",
+      "location": "Naran",
+      "image": "https://images.unsplash.com/photo-1527631746610-bca00a040d60?auto=format&fit=crop&w=1200&q=85",
+      "highlights": [
+        "Saif-ul-Malook",
+        "Lulusar",
+        "Babusar Top"
+      ],
+      "overview": "A classic Kaghan Valley journey built around lakes, high passes and scenic mountain roads.",
+      "itinerary": [
+        "Day 1 — Naran and valley sightseeing",
+        "Day 2 — Saif-ul-Malook and Lulusar",
+        "Day 3 — Babusar route and return"
+      ],
+      "included": [
+        "Transport",
+        "Accommodation",
+        "Tour coordination"
+      ],
+      "excluded": [
+        "Personal expenses",
+        "Meals unless agreed",
+        "Optional activities"
+      ],
+      "activities": [
+        "Lake visit",
+        "Sightseeing",
+        "Photography"
+      ],
+      "localFallback": "img/country-3.jpg"
+    },
+    {
+      "id": "p4",
+      "name": "Kashmir Taobat Arangkail",
+      "category": "Adventure",
+      "solo": "Rs. 24,500",
+      "couple": "Rs. 55,000",
+      "duration": "4 Days",
+      "location": "Neelum Valley",
+      "image": "https://images.unsplash.com/photo-1548013146-72479768bada?auto=format&fit=crop&w=1200&q=85",
+      "highlights": [
+        "Taobat",
+        "Arang Kel Hike",
+        "Sharda Peeth"
+      ],
+      "overview": "An extended Neelum Valley route for travelers who want more time in the mountains.",
+      "itinerary": [
+        "Day 1 — Neelum Valley",
+        "Day 2 — Sharda and Taobat",
+        "Day 3 — Arang Kel hike",
+        "Day 4 — Return"
+      ],
+      "included": [
+        "Transport",
+        "Accommodation",
+        "Trip coordination"
+      ],
+      "excluded": [
+        "Personal expenses",
+        "Meals unless agreed"
+      ],
+      "activities": [
+        "Hiking",
+        "Culture",
+        "Photography"
+      ],
+      "localFallback": "img/country-4.jpg"
+    },
+    {
+      "id": "p5",
+      "name": "Kumrat & Katora Lake",
+      "category": "Wildlife",
+      "solo": "Rs. 24,500",
+      "couple": "Rs. 56,000",
+      "duration": "4 Days",
+      "location": "Dir",
+      "image": "https://images.unsplash.com/photo-1464278533981-50106e6176b1?auto=format&fit=crop&w=1200&q=85",
+      "highlights": [
+        "Kumrat Pine Forests",
+        "Jahaz Banda",
+        "Katora Lake Trek"
+      ],
+      "overview": "A forest-and-lake adventure for travelers seeking a wilder mountain experience.",
+      "itinerary": [
+        "Day 1 — Kumrat Valley",
+        "Day 2 — Forest and river stops",
+        "Day 3 — Jahaz Banda and Katora Lake trek",
+        "Day 4 — Return"
+      ],
+      "included": [
+        "Transport",
+        "Camping/stay coordination",
+        "Guide support"
+      ],
+      "excluded": [
+        "Personal gear",
+        "Meals unless agreed"
+      ],
+      "activities": [
+        "Trekking",
+        "Camping",
+        "Photography"
+      ],
+      "localFallback": "img/training-1.jpg"
+    },
+    {
+      "id": "p6",
+      "name": "Fairy Meadows & NP Base Camp",
+      "category": "Trekking",
+      "solo": "Rs. 28,500",
+      "couple": "Rs. 65,000",
+      "duration": "5 Days",
+      "location": "Diamer District",
+      "image": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=1200&q=85",
+      "highlights": [
+        "Fairy Meadows",
+        "Nanga Parbat Base Camp",
+        "Tattu Jeep"
+      ],
+      "overview": "A high-impact trekking trip to Fairy Meadows and the Nanga Parbat base camp area.",
+      "itinerary": [
+        "Day 1 — Mountain route and Raikot",
+        "Day 2 — Tattu jeep and Fairy Meadows",
+        "Day 3 — Base camp trek",
+        "Day 4 — Meadows and descent",
+        "Day 5 — Return"
+      ],
+      "included": [
+        "Transport",
+        "Jeep coordination",
+        "Accommodation",
+        "Trip assistance"
+      ],
+      "excluded": [
+        "Personal trekking gear",
+        "Meals unless agreed"
+      ],
+      "activities": [
+        "Trekking",
+        "Jeep ride",
+        "Photography"
+      ],
+      "localFallback": "img/training-2.jpg"
+    },
+    {
+      "id": "p7",
+      "name": "Hunza Tourism & Tourisem Explorer",
+      "category": "Cultural",
+      "solo": "Rs. 28,500",
+      "couple": "Rs. 65,000",
+      "duration": "5 Days",
+      "location": "Karimabad",
+      "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=85",
+      "highlights": [
+        "Baltit / Altit",
+        "Attabad Lake",
+        "Khunjerab"
+      ],
+      "overview": "Explore Hunza’s historic forts, lake landscapes, bazaars and high-altitude northern route.",
+      "itinerary": [
+        "Day 1 — Gilgit to Hunza",
+        "Day 2 — Karimabad and forts",
+        "Day 3 — Attabad and Passu",
+        "Day 4 — Khunjerab route",
+        "Day 5 — Return"
+      ],
+      "included": [
+        "Transport",
+        "Accommodation",
+        "Tour coordination"
+      ],
+      "excluded": [
+        "Personal expenses",
+        "Meals unless agreed"
+      ],
+      "activities": [
+        "Culture",
+        "Boating",
+        "Sightseeing"
+      ],
+      "localFallback": "img/training-3.jpg"
+    },
+    {
+      "id": "p8",
+      "name": "Astore Minimerg Rama Deosai",
+      "category": "Trekking",
+      "solo": "Rs. 46,000",
+      "couple": "Rs. 100,000",
+      "duration": "6 Days",
+      "location": "Astore",
+      "image": "https://images.unsplash.com/photo-1482192505345-5655af888cc4?auto=format&fit=crop&w=1200&q=85",
+      "highlights": [
+        "Rama Meadows / Lake",
+        "Minimarg",
+        "Deosai"
+      ],
+      "overview": "A highland route connecting Astore, Rama and Deosai landscapes with a strong adventure focus.",
+      "itinerary": [
+        "Day 1 — Astore arrival",
+        "Day 2 — Rama Meadows",
+        "Day 3 — Minimarg route",
+        "Day 4 — Deosai",
+        "Day 5 — Sheosar and highlands",
+        "Day 6 — Return"
+      ],
+      "included": [
+        "Transport",
+        "Accommodation",
+        "Route coordination"
+      ],
+      "excluded": [
+        "Personal expenses",
+        "Meals unless agreed"
+      ],
+      "activities": [
+        "4x4 adventure",
+        "Trekking",
+        "Wildlife viewing"
+      ],
+      "localFallback": "img/training-4.jpg"
+    },
+    {
+      "id": "p9",
+      "name": "Skardu & Basho",
+      "category": "Wildlife",
+      "solo": "Rs. 34,000",
+      "couple": "Rs. 80,000",
+      "duration": "6 Days",
+      "location": "Skardu",
+      "image": "https://images.unsplash.com/photo-1511497584788-876760111969?auto=format&fit=crop&w=1200&q=85",
+      "highlights": [
+        "Shangrila",
+        "Basho",
+        "Deosai"
+      ],
+      "overview": "A balanced Skardu escape featuring lakes, forests and the high plains of Deosai.",
+      "itinerary": [
+        "Day 1 — Skardu arrival",
+        "Day 2 — Shangrila and Kachura",
+        "Day 3 — Basho Valley",
+        "Day 4 — Deosai",
+        "Day 5 — Skardu sightseeing",
+        "Day 6 — Return"
+      ],
+      "included": [
+        "Transport",
+        "Accommodation",
+        "Trip support"
+      ],
+      "excluded": [
+        "Personal expenses",
+        "Meals unless agreed"
+      ],
+      "activities": [
+        "Boating",
+        "Forest exploration",
+        "Photography"
+      ],
+      "localFallback": "img/service-1.jpg"
+    },
+    {
+      "id": "p10",
+      "name": "Hunza & Skardu Megatour Package",
+      "category": "Cultural",
+      "solo": "Rs. 42,000",
+      "couple": "Rs. 100,000",
+      "duration": "8 Days",
+      "location": "Hunza & Skardu",
+      "image": "https://images.unsplash.com/photo-1500534623283-312aade485b7?auto=format&fit=crop&w=1200&q=85",
+      "highlights": [
+        "Attabad",
+        "Shangrila",
+        "Deosai"
+      ],
+      "overview": "A signature combined journey linking the two most requested northern destinations.",
+      "itinerary": [
+        "Day 1 — Arrival and transfer",
+        "Day 2 — Hunza",
+        "Day 3 — Attabad and Passu",
+        "Day 4 — Hunza to Skardu",
+        "Day 5 — Kachura and Shangrila",
+        "Day 6 — Deosai",
+        "Day 7 — Basho / Skardu",
+        "Day 8 — Return"
+      ],
+      "included": [
+        "Transport",
+        "Accommodation",
+        "Trip coordination"
+      ],
+      "excluded": [
+        "Personal expenses",
+        "Meals unless agreed"
+      ],
+      "activities": [
+        "Sightseeing",
+        "Boating",
+        "High-altitude travel"
+      ],
+      "localFallback": "img/service-2.jpg"
+    },
+    {
+      "id": "p11",
+      "name": "08 Days Skardu + Hunza By-Air",
+      "category": "By-Air",
+      "solo": "Price on request",
+      "couple": "Price on request",
+      "duration": "8 Days",
+      "location": "Skardu",
+      "image": "https://images.unsplash.com/photo-1527631746610-bca00a040d60?auto=format&fit=crop&w=1200&q=85",
+      "highlights": [
+        "Return flight tickets",
+        "Shangrila",
+        "Lake & Basho"
+      ],
+      "overview": "A convenient by-air option designed for travelers who want more time exploring and less time on long road transfers.",
+      "itinerary": [
+        "Day 1 — Flight and arrival",
+        "Days 2–4 — Skardu exploration",
+        "Days 5–7 — Hunza exploration",
+        "Day 8 — Return flight"
+      ],
+      "included": [
+        "Return flight coordination",
+        "Transport",
+        "Accommodation"
+      ],
+      "excluded": [
+        "Personal expenses",
+        "Meals unless agreed"
+      ],
+      "activities": [
+        "Flight travel",
+        "Sightseeing",
+        "Boating"
+      ],
+      "localFallback": "img/service-3.jpg"
+    },
+    {
+      "id": "p12",
+      "name": "07 Days Skardu + Astore Valley By-Air",
+      "category": "By-Air",
+      "solo": "Price on request",
+      "couple": "Price on request",
+      "duration": "7 Days",
+      "location": "Skardu",
+      "image": "https://images.unsplash.com/photo-1548013146-72479768bada?auto=format&fit=crop&w=1200&q=85",
+      "highlights": [
+        "Return flight tickets",
+        "Minimarg / Rainbow Lake",
+        "Deosai / Sheosar"
+      ],
+      "overview": "A flexible air-based route combining Skardu and Astore highlands.",
+      "itinerary": [
+        "Day 1 — Flight and Skardu",
+        "Days 2–3 — Skardu",
+        "Days 4–6 — Astore / Deosai",
+        "Day 7 — Return flight"
+      ],
+      "included": [
+        "Flight coordination",
+        "Transport",
+        "Accommodation"
+      ],
+      "excluded": [
+        "Personal expenses",
+        "Meals unless agreed"
+      ],
+      "activities": [
+        "Highland travel",
+        "Trekking",
+        "Photography"
+      ],
+      "localFallback": "img/service-4.jpg"
+    },
+    {
+      "id": "p13",
+      "name": "05 Days Skardu & Basho Valley By-Air",
+      "category": "By-Air",
+      "solo": "Price on request",
+      "couple": "Price on request",
+      "duration": "5 Days",
+      "location": "Skardu",
+      "image": "https://images.unsplash.com/photo-1517825738774-7de9363ef735?auto=format&fit=crop&w=1200&q=85",
+      "highlights": [
+        "Return flight tickets",
+        "Basho",
+        "Shangrila / Kachura"
+      ],
+      "overview": "A shorter air-based Skardu getaway for travelers with limited time.",
+      "itinerary": [
+        "Day 1 — Flight and arrival",
+        "Day 2 — Kachura and Shangrila",
+        "Day 3 — Basho Valley",
+        "Day 4 — Skardu free exploration",
+        "Day 5 — Return flight"
+      ],
+      "included": [
+        "Flight coordination",
+        "Transport",
+        "Accommodation"
+      ],
+      "excluded": [
+        "Personal expenses",
+        "Meals unless agreed"
+      ],
+      "activities": [
+        "Boating",
+        "Forest exploration",
+        "Photography"
+      ],
+      "localFallback": "img/office-1.jpg"
+    }
+  ],
+  "destinations": [
+    {
+      "name": "Skardu",
+      "icon": "🏔️",
+      "image": "https://images.unsplash.com/photo-1517825738774-7de9363ef735?auto=format&fit=crop&w=900&q=85",
+      "text": "Lakes, forts, deserts, Deosai and dramatic mountain roads.",
+      "localFallback": "img/country-1.jpg"
+    },
+    {
+      "name": "Shigar Valley",
+      "icon": "🏞️",
+      "image": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=900&q=85",
+      "text": "Heritage, orchards and the gateway to the Karakoram.",
+      "localFallback": "img/country-2.jpg"
+    },
+    {
+      "name": "Khaplu",
+      "icon": "🌄",
+      "image": "https://images.unsplash.com/photo-1500534623283-312aade485b7?auto=format&fit=crop&w=900&q=85",
+      "text": "Historic fort, village culture and mountain panoramas.",
+      "localFallback": "img/country-3.jpg"
+    },
+    {
+      "name": "Manthoka Waterfall",
+      "icon": "💦",
+      "image": "https://images.unsplash.com/photo-1433086966358-54859d0ed716?auto=format&fit=crop&w=900&q=85",
+      "text": "A refreshing waterfall stop in the Kharmang region.",
+      "localFallback": "img/country-4.jpg"
+    },
+    {
+      "name": "Hunza",
+      "icon": "🏔️",
+      "image": "https://images.unsplash.com/photo-1464278533981-50106e6176b1?auto=format&fit=crop&w=900&q=85",
+      "text": "Forts, Attabad, Passu and unforgettable valley views.",
+      "localFallback": "img/carousel-1.jpg"
+    },
+    {
+      "name": "Deosai National Park",
+      "icon": "🌊",
+      "image": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=900&q=85",
+      "text": "High-altitude plains, Sheosar Lake and wild landscapes.",
+      "localFallback": "img/carousel-2.jpg"
+    },
+    {
+      "name": "Minimarg",
+      "icon": "🏕️",
+      "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=85",
+      "text": "Remote mountain scenery and highland adventure.",
+      "localFallback": "img/about-3.jpg"
+    },
+    {
+      "name": "Astore Valley",
+      "icon": "🌿",
+      "image": "https://images.unsplash.com/photo-1482192505345-5655af888cc4?auto=format&fit=crop&w=900&q=85",
+      "text": "Green valleys, Rama Meadows and routes toward Deosai.",
+      "localFallback": "img/training-1.jpg"
+    },
+    {
+      "name": "Basho Valley",
+      "icon": "🌲",
+      "image": "https://images.unsplash.com/photo-1511497584788-876760111969?auto=format&fit=crop&w=900&q=85",
+      "text": "Forest, streams and a peaceful escape from the main road.",
+      "localFallback": "img/training-2.jpg"
+    }
+  ],
+  "services": [
+    {
+      "icon": "fas fa-route",
+      "title": "Custom Tour Planning",
+      "text": "Build your route around your group, dates, pace and must-see places."
+    },
+    {
+      "icon": "fas fa-car",
+      "title": "Transport Coordination",
+      "text": "Practical vehicle and route planning for northern mountain roads."
+    },
+    {
+      "icon": "fas fa-hotel",
+      "title": "Hotel & Stay Coordination",
+      "text": "Organize suitable stays around your daily itinerary and budget."
+    },
+    {
+      "icon": "fas fa-mountain",
+      "title": "Adventure Trips",
+      "text": "Trekking, high-altitude routes, lakes, forests and off-road experiences."
+    },
+    {
+      "icon": "fas fa-users",
+      "title": "Family & Group Tours",
+      "text": "Comfort-focused plans for families, friends, couples and corporate groups."
+    },
+    {
+      "icon": "fas fa-headset",
+      "title": "Trip Support",
+      "text": "Stay connected with the team for planning and on-trip coordination."
+    }
+  ],
+  "team": [
+    {
+      "id": "t1",
+      "name": "Muhammad Ali Sawan Baltistani",
+      "role": "CEO · Founder",
+      "description": "Leads GB Adventure with 10+ years of mountain guiding and responsible northern travel.",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=800&q=85",
+      "facebook": "https://www.facebook.com/share/1AVegF4JPn/",
+      "instagram": "https://www.instagram.com/travel_with_rawi/",
+      "tiktok": "https://www.tiktok.com/@yawarrawi",
+      "whatsapp": "https://wa.me/923555101279"
+    },
+    {
+      "id": "t2",
+      "name": "Muhammed Hussain Qasimii",
+      "role": "Social Media Manager",
+      "description": "Captures on-ground expedition media and handles guest communication for GB Adventure.",
+      "image": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=800&q=85",
+      "facebook": "",
+      "instagram": "https://www.instagram.com/m_hussain_qasimii_/",
+      "tiktok": "",
+      "whatsapp": "https://wa.me/923555101279"
+    },
+    {
+      "id": "t3",
+      "name": "Travel With Rawi Team",
+      "role": "Lead Expedition Planner · Digital Lead",
+      "description": "Designs bespoke itineraries, manages digital operations and coordinates 4x4 logistics.",
+      "image": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?auto=format&fit=crop&w=800&q=85",
+      "facebook": "https://www.facebook.com/share/19ai3gNRfb/",
+      "instagram": "https://www.instagram.com/travelwithsawanbaltistani/",
+      "tiktok": "https://www.tiktok.com/@yawarrawi",
+      "whatsapp": "https://wa.me/923555101279"
+    }
+  ],
+  "reviews": [
+    {
+      "name": "GB Adventure Guest",
+      "role": "Family Traveler",
+      "text": "The route felt carefully planned instead of rushed. The lakes, forts and mountain roads all had their moment."
+    },
+    {
+      "name": "Northern Pakistan Traveler",
+      "role": "Couple Trip",
+      "text": "A beautiful way to see Skardu and Hunza with enough time to actually enjoy the landscapes."
+    },
+    {
+      "name": "Adventure Group",
+      "role": "Group Tour",
+      "text": "From Deosai to the Hunza valleys, the itinerary gave us a real sense of the region."
+    }
+  ],
+  "blogs": [
+    {
+      "id": "b1",
+      "title": "Best time to visit Hunza Valley",
+      "category": "HUNZA · GUIDE",
+      "excerpt": "Season-by-season planning, scenic stops and practical tips for a memorable Hunza trip.",
+      "image": "https://images.unsplash.com/photo-1464278533981-50106e6176b1?auto=format&fit=crop&w=1200&q=85",
+      "slug": "blog-hunza.html",
+      "content": "Plan Hunza around your preferred weather, scenery and activities. Spring brings blossoms, summer offers accessible mountain routes, autumn is famous for color, and winter is quieter and colder. Always confirm route conditions before departure.",
+      "localFallback": "img/country-1.jpg"
+    },
+    {
+      "id": "b2",
+      "title": "Skardu travel guide for first-time visitors",
+      "category": "SKARDU · ITINERARY",
+      "excerpt": "What to see, how to structure your days and which landscapes deserve extra time.",
+      "image": "https://images.unsplash.com/photo-1548013146-72479768bada?auto=format&fit=crop&w=1200&q=85",
+      "slug": "blog-skardu.html",
+      "content": "A first Skardu trip is easier when you group nearby sights: Kachura and Shangrila together, then Shigar or Kharmang, and reserve a full day for Deosai when conditions allow. Add flexibility for mountain roads.",
+      "localFallback": "img/country-2.jpg"
+    },
+    {
+      "id": "b3",
+      "title": "Deosai National Park: planning your trip",
+      "category": "DEOSAI · ADVENTURE",
+      "excerpt": "Route planning, weather awareness and what to expect on the high-altitude plains.",
+      "image": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=1200&q=85",
+      "slug": "blog-deosai.html",
+      "content": "Deosai is a high-altitude landscape where weather and road conditions can change quickly. Carry warm layers, water and essentials, follow local access guidance and keep the itinerary flexible.",
+      "localFallback": "img/country-3.jpg"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Can I customize a package?",
+      "a": "Yes. Routes, dates, transport, stays and trip pace can be adjusted around your group."
+    },
+    {
+      "q": "Do you offer private family tours?",
+      "a": "Yes. Use the booking form to request a private family, couple or group itinerary."
+    },
+    {
+      "q": "How do I book a tour?",
+      "a": "Choose a package, submit the booking request, or contact GB Adventure on WhatsApp for a quotation and availability."
+    },
+    {
+      "q": "Are the listed prices final?",
+      "a": "Published package prices are reference prices. Final quotations can vary with dates, group size, transport, hotel choice and seasonal conditions."
+    },
+    {
+      "q": "Can you arrange transport and hotels?",
+      "a": "Yes. Transport and stay coordination can be included in your requested itinerary."
+    },
+    {
+      "q": "What happens after I submit the booking form?",
+      "a": "Your request is saved for the admin team. They can review it and contact you through WhatsApp or email."
+    }
+  ],
+  "hotels": [
+    {
+      "id": "h1",
+      "name": "Shangrila Resort Skardu",
+      "type": "Lakeside Luxury Resort",
+      "location": "Lower Kachura Lake, Skardu",
+      "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=1200&q=85",
+      "map": "https://www.google.com/maps/search/?api=1&query=Shangrila+Resort+Skardu",
+      "rating": "4.8",
+      "description": "Iconic Chinese pagoda villas overlooking emerald Lower Kachura Lake surrounded by fruit orchards.",
+      "localFallback": "img/office-1.jpg"
+    },
+    {
+      "id": "h2",
+      "name": "Hunza Serena Inn",
+      "type": "Luxury Mountain Hotel",
+      "location": "Karimabad, Central Hunza",
+      "image": "https://images.unsplash.com/photo-1582719508461-905c673771fd?auto=format&fit=crop&w=1200&q=85",
+      "map": "https://www.google.com/maps/search/?api=1&query=Hunza+Serena+Hotel+Karimabad",
+      "rating": "4.9",
+      "description": "Panoramic terrace views of snow-capped Rakaposhi and Ultar Sar peaks with traditional Hunzai hospitality.",
+      "localFallback": "img/office-2.jpg"
+    },
+    {
+      "id": "h3",
+      "name": "Serena Shigar Fort",
+      "type": "Heritage Boutique Hotel",
+      "location": "Shigar Valley, Baltistan",
+      "image": "https://images.unsplash.com/photo-1571896349842-33c89424de2d?auto=format&fit=crop&w=1200&q=85",
+      "map": "https://www.google.com/maps/search/?api=1&query=Serena+Shigar+Fort",
+      "rating": "4.8",
+      "description": "The 400-year-old 'Palace on the Rock' (Fong-Khar) restored into a serene luxury heritage retreat.",
+      "localFallback": "img/office-3.jpg"
+    },
+    {
+      "id": "h4",
+      "name": "Serena Khaplu Palace",
+      "type": "Royal Heritage Hotel",
+      "location": "Khaplu Valley, Ghanche",
+      "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&q=85",
+      "map": "https://www.google.com/maps/search/?api=1&query=Serena+Khaplu+Palace",
+      "rating": "4.7",
+      "description": "Royal residence of the Yabgo Rajas with ancient Tibetan woodwork, apricot gardens and mountain vistas.",
+      "localFallback": "img/office-4.jpg"
+    },
+    {
+      "id": "h5",
+      "name": "Luxus Hunza Attabad Lake",
+      "type": "Luxury Waterfront Resort",
+      "location": "Attabad Lake, Gojal Hunza",
+      "image": "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?auto=format&fit=crop&w=1200&q=85",
+      "map": "https://www.google.com/maps/search/?api=1&query=Luxus+Hunza+Attabad+Lake",
+      "rating": "4.9",
+      "description": "Glass-front luxury pods right on the turquoise edge of Attabad Lake with private boat jetty.",
+      "localFallback": "img/office-1.jpg"
+    }
+  ],
+  "gallery": [
+    {
+      "id": "g1",
+      "title": "4x4 Prado Safari in Deosai Plains",
+      "category": "4x4 Jeeps & Cars",
+      "location": "Deosai National Park, Skardu",
+      "image": "https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?auto=format&fit=crop&w=1200&q=85",
+      "caption": "Conquering high altitude mountain streams and rocky plateaus in Toyota Land Cruiser Prado."
+    },
+    {
+      "id": "g2",
+      "title": "Adventurers Trekking in Green Meadows",
+      "category": "Lakes & Treks",
+      "location": "Fairy Meadows & Nanga Parbat Base",
+      "image": "https://images.unsplash.com/photo-1501555088652-021faa106b9b?auto=format&fit=crop&w=1200&q=85",
+      "caption": "Hikers exploring alpine pastures beneath the colossal ice wall of the Killer Mountain."
+    },
+    {
+      "id": "g3",
+      "title": "Iconic Passu Cones & Hunza Valley",
+      "category": "Hunza Valley",
+      "location": "Passu, Upper Hunza",
+      "image": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=1400&q=85",
+      "caption": "The majestic cathedral spires of Passu Cones standing tall along the legendary Karakoram Highway."
+    },
+    {
+      "id": "g4",
+      "title": "Turquoise Waters of Attabad Lake",
+      "category": "Lakes & Treks",
+      "location": "Attabad Lake, Gojal",
+      "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1200&q=85",
+      "caption": "Emerald waters formed among sheer canyon cliffs, offering scenic boating and jet ski tours."
+    },
+    {
+      "id": "g5",
+      "title": "4x4 Hilux Revo Off-Road Expedition",
+      "category": "4x4 Jeeps & Cars",
+      "location": "Katpana Cold Desert, Skardu",
+      "image": "https://images.unsplash.com/photo-1559416523-140ddc3d238c?auto=format&fit=crop&w=1200&q=85",
+      "caption": "Dune bashing and high-altitude desert thrills under snow-capped peaks in custom 4x4 vehicles."
+    },
+    {
+      "id": "g6",
+      "title": "Toyota Land Cruiser V8 Mountain Fleet",
+      "category": "4x4 Jeeps & Cars",
+      "location": "Karakoram Highway (N-35)",
+      "image": "https://images.unsplash.com/photo-1542282088-72c9c27ed0cd?auto=format&fit=crop&w=1200&q=85",
+      "caption": "VIP executive mountain cruisers with panoramic windows, climate control and experienced drivers."
+    },
+    {
+      "id": "g7",
+      "title": "Shangrila Resort Kachura Lake",
+      "category": "Luxury Hotels & Camps",
+      "location": "Lower Kachura, Skardu",
+      "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=1200&q=85",
+      "caption": "Peace and tranquil beauty at Pakistan's heaven on earth lakeside resort."
+    },
+    {
+      "id": "g8",
+      "title": "Starlit Camping Under the Milky Way",
+      "category": "Luxury Hotels & Camps",
+      "location": "Sheosar Lake, Deosai",
+      "image": "https://images.unsplash.com/photo-1510312305653-8ed496efae75?auto=format&fit=crop&w=1200&q=85",
+      "caption": "Glamping with warm sleeping bags and bonfire under crystal-clear high-altitude night skies."
+    },
+    {
+      "id": "g9",
+      "title": "High-Altitude Sand Dunes of Katpana",
+      "category": "Skardu & Deosai",
+      "location": "Cold Desert, Skardu",
+      "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=85",
+      "caption": "Where white sands meet snow mountains at 7,500 feet above sea level."
+    },
+    {
+      "id": "g10",
+      "title": "Serena Heritage Retreat at Shigar",
+      "category": "Luxury Hotels & Camps",
+      "location": "Shigar Valley, Baltistan",
+      "image": "https://images.unsplash.com/photo-1571896349842-33c89424de2d?auto=format&fit=crop&w=1200&q=85",
+      "caption": "Centuries of royal heritage preserved in luxury amidst wild rose gardens and gushing springs."
+    },
+    {
+      "id": "g11",
+      "title": "4x4 Mountain Jeep Trail to Basho Valley",
+      "category": "4x4 Jeeps & Cars",
+      "location": "Basho Meadow, Roundu",
+      "image": "https://images.unsplash.com/photo-1506015391300-4802dc74de2e?auto=format&fit=crop&w=1200&q=85",
+      "caption": "Navigating suspension bridges and pine forest curves in 4WD jeeps."
+    },
+    {
+      "id": "g12",
+      "title": "Golden Hour Over Karakoram Peaks",
+      "category": "Hunza Valley",
+      "location": "Eagle's Nest, Duikar",
+      "image": "https://images.unsplash.com/photo-1563720223185-11003d516935?auto=format&fit=crop&w=1200&q=85",
+      "caption": "Sun rays illuminating Ladyfinger peak and Golden Peak at sunrise."
+    }
+  ]
+}

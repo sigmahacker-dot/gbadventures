@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="robots" content="noindex,nofollow">
+  <title>GB Adventure Admin Dashboard</title>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.4/css/all.css">
+  <link rel="stylesheet" href="/admin.css?v=20260918-2">
+<script>
+(function(){
+  try {
+    var c = localStorage.getItem("gbAdventureSiteDataV2");
+    if (c) {
+      var d = JSON.parse(c);
+      if (d && d.settings && d.settings.logo) {
+        window.__GB_LOGO__ = d.settings.logo;
+      }
+    }
+  } catch(e){}
+})();
+</script></head>
+<body>
+  <div id="loginView" class="auth-wrap">
+    <div class="auth-card">
+      <div class="auth-logo-wrap"><img id="authLogoImg" src="" alt="GB Adventure logo" style="max-height:60px;object-fit:contain;">
+<script>
+(function(){
+  var el = document.getElementById("authLogoImg");
+  if (el) el.src = window.__GB_LOGO__ || "assets/gb-adventure-logo.svg";
+})();
+</script></div>
+      <div class="eyebrow">GB Adventure</div>
+      <h1>Admin Dashboard</h1>
+      <p>Securely manage your travel website, bookings, hotels, content and administrators.</p>
+      <form id="loginForm" novalidate>
+        <label class="auth-label" for="loginUser">Username</label>
+        <input id="loginUser" placeholder="Enter username" required autocomplete="username">
+        <label class="auth-label" for="loginPass">Password</label>
+        <input id="loginPass" type="password" placeholder="Enter password" required autocomplete="current-password">
+        <button id="loginButton" type="submit">Sign in</button>
+        <div id="loginStatus" role="status" aria-live="polite"></div>
+      </form>
+      <small class="auth-note">Admin Login · Secure access<br>Your credentials are never displayed on this page.</small>
+    </div>
+  </div>
+  <div id="appView" class="app" hidden>
+    <aside class="sidebar"><div class="side-brand"><img id="adminSideLogo" src="" alt="GB Adventure" style="max-height:42px;object-fit:contain;">
+<script>
+(function(){
+  var el = document.getElementById("adminSideLogo");
+  if (el) el.src = window.__GB_LOGO__ || "assets/gb-adventure-logo.svg";
+})();
+</script><div><b>GB Adventure</b><small>Travel Control Center</small></div></div><nav id="sideNav"></nav><button id="logoutBtn" class="logout"><i class="fas fa-sign-out-alt"></i><span>Logout</span></button></aside>
+    <main class="main"><header class="top"><div><div class="eyebrow">Travel agency admin</div><h1 id="pageTitle">Dashboard</h1></div><div class="top-actions"><a href='/' rel='noopener' target='_blank'><i class="fas fa-external-link-alt"></i> Website</a><button id="saveBtn" class="primary"><i class="fas fa-save"></i> Save</button></div></header><section id="dashboard" class="panel active"></section><section id="settings" class="panel"></section><section id="hero" class="panel"></section><section id="stats" class="panel"></section><section id="packages" class="panel"></section><section id="destinations" class="panel"></section><section id="hotels" class="panel"></section><section id="gallery" class="panel"></section><section id="services" class="panel"></section><section id="team" class="panel"></section><section id="reviews" class="panel"></section><section id="blogs" class="panel"></section><section id="faqs" class="panel"></section><section id="socials" class="panel"></section><section id="bookings" class="panel"></section><section id="admins" class="panel"></section><section id="ownership" class="panel"></section><section id="backup" class="panel"></section></main>
+  </div>
+  <script src="/admin.js?v=1789764820157"></script>
+</body>
+</html>

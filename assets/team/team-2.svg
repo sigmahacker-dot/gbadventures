@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#d9e8f4"/><stop offset="1" stop-color="#f8faf5"/></linearGradient></defs>
+<rect width="600" height="600" rx="70" fill="url(#g)"/>
+<circle cx="300" cy="245" r="112" fill="#c98f6f"/>
+<path d="M190 236c8-100 54-151 111-151 73 0 112 61 110 151-29-38-69-52-111-52-42 0-78 17-110 52z" fill="#253747"/>
+<circle cx="258" cy="245" r="9" fill="#233"/><circle cx="342" cy="245" r="9" fill="#233"/>
+<path d="M260 305q40 28 80 0" fill="none" stroke="#733" stroke-width="8" stroke-linecap="round"/>
+<path d="M130 600c12-142 78-205 170-205s158 63 170 205" fill="#6885a1"/>
+<path d="M155 450q145 95 290 0" fill="none" stroke="rgba(255,255,255,.45)" stroke-width="8"/>
+<text x="300" y="545" text-anchor="middle" font-family="Arial,sans-serif" font-size="48" font-weight="700" fill="#fff">HQ</text>
+<text x="300" y="585" text-anchor="middle" font-family="Arial,sans-serif" font-size="18" fill="#fff">GB ADVENTURE · SAMPLE</text>
+</svg>
